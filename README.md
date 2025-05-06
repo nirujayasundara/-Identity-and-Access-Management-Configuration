@@ -32,6 +32,8 @@ Customer Managed Policy
 
 Additionally, a Customer Managed policy named AmazonACMFullAccess is assigned directly to miroshajayasundara with the following permission
 
+
+
 {
     "Version": "2012-10-17",
     
@@ -62,4 +64,6 @@ Additionally, a Customer Managed policy named AmazonACMFullAccess is assigned di
 
 
 
-his configuration ensures that (niroshajayasundara) has full access to manage API Gateway, DynamoDB, Route 53, S3, Certificate Manager, Lambda, and CloudFront, as well as the necessary IAM permissions to administer these services effectively.
+
+
+This configuration ensures that (niroshajayasundara) has full access to manage API Gateway, DynamoDB, Route 53, S3, Certificate Manager, Lambda, and CloudFront, as well as the necessary IAM permissions to administer these services effectively.
