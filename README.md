@@ -30,7 +30,9 @@ IAMFullAccess
 
 Customer Managed Policy
 
-Additionally, a Customer Managed policy named AmazonACMFullAccess is assigned directly to miroshajayasundara with the following permission
+Additionally, a Customer Managed policy named AmazonACMFullAccess is assigned directly to miroshajayasundara with the following permission:
+
+
 
 
 
@@ -59,6 +61,7 @@ Additionally, a Customer Managed policy named AmazonACMFullAccess is assigned di
         }
         
     ]
+
     
 }
 
